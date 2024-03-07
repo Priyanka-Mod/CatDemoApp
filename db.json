@@ -1,0 +1,59 @@
+{
+  "catData": [
+    {
+      "name": "Danyy",
+      "age": "9",
+      "imagePath": "file:///data/user/0/com.awesomeproject/cache/rn_image_picker_lib_temp_7516665c-dee3-4199-80c8-0527b90e8cd8.jpg",
+      "id": "57a8"
+    },
+    {
+      "name": "Bruno",
+      "age": "8",
+      "id": "13be"
+    },
+    {
+      "name": "Millie",
+      "age": "4",
+      "id": "16a6"
+    },
+    {
+      "id": "3c45",
+      "name": "stafie",
+      "age": "6"
+    }
+  ],
+  "userData": [
+    {
+      "id": "f1ea",
+      "name": "asdasd",
+      "email": "dsfd@asd.ff",
+      "date": "2024-02-09T11:38:42.337Z",
+      "number": "9428022221",
+      "password": "Qww@111W@qqq"
+    },
+    {
+      "id": "bbbe",
+      "name": "sadasdasda",
+      "email": "sd@xdf.fd",
+      "date": "2024-02-09T12:33:58.307Z",
+      "number": "9756666555",
+      "password": "erW@1111"
+    },
+    {
+      "id": "580a",
+      "name": "sdasd",
+      "email": "asd@as.ed",
+      "date": "2024-02-09T12:43:39.803Z",
+      "number": "9756666551",
+      "password": "aaaaW@!111"
+    },
+    {
+      "id": "5047",
+      "name": "dfgdfcsdf",
+      "email": "sdsf@asds.dfdf",
+      "date": "2024-02-12T12:03:06.714Z",
+      "number": "9874545454",
+      "password": "asdasdA@111"
+    }
+  ]
+}
